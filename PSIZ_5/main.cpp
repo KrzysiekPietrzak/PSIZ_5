@@ -140,9 +140,9 @@ int main(int arc, char * argv[]) {
         fwrite(&bmpImg, 3, 1, w);
     }
 
-    printf("\n");
+    /*printf("\n");
     fclose(f);
     fclose(w);
 
-    return 0;
+    return 0;*/
 }
